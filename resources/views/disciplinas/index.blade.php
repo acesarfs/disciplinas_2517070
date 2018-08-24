@@ -1,3 +1,4 @@
+    <a href='disciplinas/create'>Cadastrar Disciplina</a>
     <ul>
     @foreach ($disciplinas as $disciplina)
         <li>
